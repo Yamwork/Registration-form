@@ -1,0 +1,144 @@
+* {
+  padding: 2px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image:url(/Sky-Forms.jpg);
+  font-family: 'Open Sans', sans-serif;
+  color: #232323;
+}
+
+input {
+  font-family: 'Open Sans', sans-serif;
+  color: #232323;
+  border: none;
+  accent-color: #2da5da;
+
+}
+
+.fa-solid {
+  color: #ccc;
+  position: relative;
+  right: 43px;
+  border-left: 1px solid #e5e5e5;
+  margin-left: 8px;
+  width: 10px;
+  padding: 12px;
+  font-size: small;
+  margin: -4px;
+  
+}
+.gender select {
+  margin: 5px;
+  width: 88%;
+  height: 27px;
+  position: relative;
+  left: -6px;
+  font-size: small;
+  font: 300 15px/39px 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: small;
+  color:rgb(78, 74, 74);
+
+}
+select {
+  border-color: #e5e5e5;
+  width: 60px;
+  font-family: 'Open Sans', sans-serif;
+  color: #232323;
+}
+
+.FLNAME input {
+  width: 42%;
+  height: 31px;
+  position: relative;
+  left: -7px;
+  margin: 5px;
+  padding: 12px;
+  font-size: small;
+  text-transform: capitalize;
+  color:rgb(78, 74, 74);
+}
+
+hr {
+  padding: 0px;
+}
+input  ::placeholder{
+  color:rgb(78, 74, 74);
+
+}
+
+
+.check {
+  position: relative;
+  left: -27px;
+  margin: 12px;
+  font-size: smaller;
+  
+}
+
+.check1 {
+  position: relative;
+  left: -33px;
+  
+}
+
+.check2 {
+  position: relative;
+  left: -2px;
+}
+
+
+.box {
+  border: 2px solid black;
+  margin: 20px;
+  width: 376px;
+  height: 492px;
+  background-color: rgba(248, 248, 248, .9);
+  border: none;
+
+
+}
+
+.iconinside input {
+  margin: 5px;
+  width: 82%;
+  height: 31px;
+  padding: 12px;
+  font-size: small;
+  color: #232323;
+  text-transform: capitalize;
+}
+
+center {
+  padding: 11px;
+}
+
+.submit input {
+  background-color: #2da5da;
+  font: 300 15px/39px 'Open Sans', Helvetica, Arial, sans-serif;
+  position: relative;
+  left: 125px;
+  margin: 4px;
+  padding: 1px;
+  width: 89px;
+  border: none;
+  color: white;
+}
+
+.secondpart {
+  padding: 10px;
+}
+
+.entire {
+  /* background-color: rgba(248,248,248,.9); */
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #232323;
+  font-weight: bolder;
+  position: relative;
+  left: -49px;
+}
